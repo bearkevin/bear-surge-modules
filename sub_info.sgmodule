@@ -8,4 +8,4 @@
 Bear_Node=script-name=bear_nodes,update-interval=3600
 
 [Script]
-bear_nodes=type=generic,timeout=10,script-path=https://cdn.jsdelivr.net/gh/bearkevin/surge_module@main/scripts/subscription_panel.js,script-update-interval=0,argument=url={{{BN_URL}}}&title=Bear&reset_day=1&method=get&icon=pawprint.circle.fill&color=#4682B4
+bear_nodes=type=generic,timeout=10,script-path=https://cdn.jsdelivr.net/gh/bearkevin/bear-surge-modules@main/scripts/subscription_panel.js,script-update-interval=0,argument=url={{{BN_URL}}}&title=Bear&reset_day=1&method=get&icon=pawprint.circle.fill&color=#4682B4
