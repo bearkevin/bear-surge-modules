@@ -39,7 +39,7 @@ The header `resetday` means "days left until reset." The argument `reset_day` me
 
 Module arguments use Surge's `{{{ARG_NAME}}}` triple-brace template syntax. Script paths point to GitHub Raw URLs on the `main` branch:
 ```
-https://raw.githubusercontent.com/bearkevin/surge_module/main/scripts/...
+https://raw.githubusercontent.com/bearkevin/bear-surge-modules/main/scripts/...
 ```
 
 After modifying any script, the changes only take effect once pushed to `main` (Surge fetches from the remote URL).

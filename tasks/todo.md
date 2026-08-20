@@ -15,7 +15,7 @@
 1. 对比结果不一致：本地与远程脚本哈希不同。
 2. 已用远程脚本覆盖 `scripts/subscription_panel.js`，覆盖后两者一致。
 3. 将 `sub_info.sgmodule` 两处 `script-path` 更新为：
-   `https://raw.githubusercontent.com/bearkevin/surge_module/main/scripts/subscription_panel.js`
+   `https://raw.githubusercontent.com/bearkevin/bear-surge-modules/main/scripts/subscription_panel.js`
 4. 已完成 Git 提交与推送。
 
 ## 评审
