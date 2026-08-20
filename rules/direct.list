@@ -5,6 +5,7 @@ DOMAIN,cloudflare-dns.com
 # nexitally
 DOMAIN-SUFFIX,nxonearth.com
 DOMAIN-SUFFIX,0ztnlk7gnu.sbs
+IP-CIDR,177.2.25.226/32
 # wcloud
 DOMAIN-SUFFIX,wcloud.me
 # netdisk
