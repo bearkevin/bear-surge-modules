@@ -1,3 +1,6 @@
+#tailscale
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,ts.net
 #ghfast
 DOMAIN-SUFFIX,gh-proxy.org
 # cloudflare
