@@ -5,5 +5,7 @@
 [Rule]
 # MTProto Server 转发的 DC 连接为纯 IP 连接，用协议规则显式接管（需 iOS 5.21+ / macOS 6.8+）
 PROTOCOL,MTProto,Telegram #!REQUIREMENT SYSTEM!='tvOS'
-# > Proxy SUBNET
-OR,((AND,((SUBNET,ROUTER:10.82.10.250), (SUBNET,SSID:OurHome))), (AND,((SUBNET,ROUTER:10.81.10.250), (SUBNET,SSID:Bear)))),DIRECT
+
+[SSID Setting]
+ROUTER:10.81.10.250 suspend=true
+ROUTER:10.82.10.250 suspend=true
