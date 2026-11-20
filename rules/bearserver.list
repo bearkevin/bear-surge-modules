@@ -8,3 +8,5 @@ IP-CIDR,18.176.126.17/32
 IP-CIDR,210.87.110.23/32
 # Rule Domain
 DOMAIN-SUFFIX,bearxyz.uk
+DOMAIN-SUFFIX,wcloud.me
+DOMAIN-SUFFIX,nxonearth.com
